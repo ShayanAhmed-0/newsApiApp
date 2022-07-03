@@ -1,0 +1,136 @@
+{
+    "status": "ok",
+    "totalResults": 10,
+    "articles": [
+        {
+            "source": {
+                "id": "techcrunch",
+                "name": "TechCrunch"
+            },
+            "author": "Alex Wilhelm",
+            "title": "What's a fintech even worth these days?",
+            "description": "Fintech was the hottest thing around last year, a fact that may now turn into a venture capital and startup headache.",
+            "url": "https://techcrunch.com/2022/06/27/whats-a-fintech-even-worth-these-days/",
+            "urlToImage": "https://techcrunch.com/wp-content/uploads/2020/05/NSussman_Techcrunch_Exchange_v3-GRN.jpg?w=533",
+            "publishedAt": "2022-06-27T15:27:46Z",
+            "content": "It’s not news that times have changed in the world of fintech. After financial technology startups saw their fortunes rise during the venture capital boom that loosely wrapped as 2021 came to a close… [+2384 chars]"
+        },
+        {
+            "source": {
+                "id": "techcrunch",
+                "name": "TechCrunch"
+            },
+            "author": "Ron Miller",
+            "title": "After several bruising months, industry analysts see Zendesk sale as pressure release",
+            "description": "Maybe now, as Zendesk goes private, it can take a deep breath and get back to work outside of the white-hot public investing spotlight where activist investors can lurk, sometimes wreaking havoc.",
+            "url": "https://techcrunch.com/2022/06/27/after-several-bruising-months-industry-analysts-see-zendesk-sale-as-pressure-release/",
+            "urlToImage": "https://techcrunch.com/wp-content/uploads/2022/06/GettyImages-1076495332.jpg?w=600",
+            "publishedAt": "2022-06-27T14:28:27Z",
+            "content": "When Zendesk announced it had been acquired by a consortium of private equity firms on Friday for $10.2 billion, it seemed a sudden and jarring end for a company that had once pioneered customer serv… [+1633 chars]"
+        },
+        {
+            "source": {
+                "id": "techcrunch",
+                "name": "TechCrunch"
+            },
+            "author": "Aria Alamalhodaei",
+            "title": "Rocket Lab's CAPSTONE mission to the moon is key to establishing a lunar space station",
+            "description": "“Going to the moon is no joke.” So said Rocket Lab CEO Peter Beck, just days before the planned launch of CAPSTONE, a watershed mission for both NASA and the private space industry. The mission is important, though you might not assume so based on the stats o…",
+            "url": "https://techcrunch.com/2022/06/27/rocket-labs-capstone-mission-to-the-moon-is-key-to-establishing-a-lunar-space-station/",
+            "urlToImage": "https://techcrunch.com/wp-content/uploads/2022/06/capstone_02-19jan22_0.jpeg?w=711",
+            "publishedAt": "2022-06-27T14:25:40Z",
+            "content": "Going to the moon is no joke. So said Rocket Lab CEO Peter Beck, just days before the planned launch of CAPSTONE, a watershed mission for both NASA and the private space industry.\r\nThe mission is imp… [+4235 chars]"
+        },
+        {
+            "source": {
+                "id": "techcrunch",
+                "name": "TechCrunch"
+            },
+            "author": "Alex Wilhelm",
+            "title": "Leverage, red flags, and a changing venture landscape",
+            "description": "Hello and welcome back to Equity, a podcast about the business of startups, where we unpack the numbers and nuance behind the headlines. Alex and Grace are back to cover the biggest, boldest and baddest technology news. This week we are not recording on a Tue…",
+            "url": "https://techcrunch.com/2022/06/27/leverage-red-flags-and-a-changing-venture-landscape/",
+            "urlToImage": "https://techcrunch.com/wp-content/uploads/2020/07/equity-podcast-2019-phone.jpg?w=711",
+            "publishedAt": "2022-06-27T14:00:22Z",
+            "content": "Hello and welcome back to Equity, a podcast about the business of startups, where we unpack the numbers and nuance behind the headlines.\r\nAlex and Grace are back to cover the biggest, boldest and bad… [+523 chars]"
+        },
+        {
+            "source": {
+                "id": "techcrunch",
+                "name": "TechCrunch"
+            },
+            "author": "Dominic-Madori Davis",
+            "title": "AI Squared raises $6M to help companies integrate AI into existing applications",
+            "description": "AI Squared integrates AI it into existing applications in a timely and straightforward manner.",
+            "url": "https://techcrunch.com/2022/06/27/ai-squared-raises-6m-to-help-companies-integrate-ai-into-existing-applications/",
+            "urlToImage": "https://techcrunch.com/wp-content/uploads/2022/06/Benjamin-Harvey.jpg?w=600",
+            "publishedAt": "2022-06-27T13:57:50Z",
+            "content": "Integration platform AI Squared announced today the closing of a $6 million seed round led by NEA with participation from Ridgeline Partners.\r\nLaunched in 2021, AI Squared helps companies adopt artif… [+5686 chars]"
+        },
+        {
+            "source": {
+                "id": "techcrunch",
+                "name": "TechCrunch"
+            },
+            "author": "Ivan Mehta",
+            "title": "California judge upholds a case against Pinterest over a marketer's contribution to initial concepts",
+            "description": "Last week, a California judge dismissed Pinterest’s motion to dismiss a case over a marketer’s claim that she wasn’t compensated for her ideas that helped form the company. However, Judge Richard Seabolt removed the company co-founder Paul Sciarra from the la…",
+            "url": "https://techcrunch.com/2022/06/27/california-judge-upholds-a-case-against-pinterest-over-a-marketers-contribution-to-initial-concepts/",
+            "urlToImage": "https://techcrunch.com/wp-content/uploads/2019/04/GettyImages-460308601.jpg?w=601",
+            "publishedAt": "2022-06-27T13:25:27Z",
+            "content": "Last week, a California judge dismissed Pinterest’s motion to dismiss a case over a marketer’s claim that she wasn’t compensated for her ideas that helped form the company. However, Judge Richard Sea… [+2125 chars]"
+        },
+        {
+            "source": {
+                "id": "techcrunch",
+                "name": "TechCrunch"
+            },
+            "author": "Ivan Mehta",
+            "title": "New York-based grand jury issues subpoenas to Truth Social SPAC board members",
+            "description": "Plans for a Special Purpose Acquisition Company (SPAC) merger for Donald Trump’s media group could have hit roadblocks with a New York-based federal grand jury sending subpoenas to members of the company’s board. According to a new SEC filing, these subpoenas…",
+            "url": "https://techcrunch.com/2022/06/27/new-york-based-grand-jury-issues-subpoenas-to-truth-social-spac-board-members/",
+            "urlToImage": "https://techcrunch.com/wp-content/uploads/2021/01/GettyImages-858384956.jpg?w=600",
+            "publishedAt": "2022-06-27T12:42:40Z",
+            "content": "Plans for a Special Purpose Acquisition Company (SPAC) merger for Donald Trumps media group could have hit roadblocks with a New York-based federal grand jury sending subpoenas to members of the comp… [+1421 chars]"
+        },
+        {
+            "source": {
+                "id": "techcrunch",
+                "name": "TechCrunch"
+            },
+            "author": "Jaclyn Trop",
+            "title": "Volkswagen unveils ID.AERO concept that will provide the basis for 2023 flagship EV",
+            "description": "Volkswagen Group unveiled its ID.AERO concept in China on Monday — slated to serve as the inspiration behind the automaker’s flagship EV, and first-ever global all-electric sedan, next year. A version of the Volkswagen ID.AERO concept will go into production …",
+            "url": "https://techcrunch.com/2022/06/27/volkswagen-unveils-id-aero-concept-that-will-provide-the-basis-for-2023-flagship-ev/",
+            "urlToImage": "https://techcrunch.com/wp-content/uploads/2022/06/DB2022AU00361.jpg?w=601",
+            "publishedAt": "2022-06-27T12:27:22Z",
+            "content": "Volkswagen Group unveiled its ID.AERO concept in China on Monday slated to serve as the inspiration behind the automakers flagship EV, and first-ever global all-electric sedan, next year.\r\nA version … [+2173 chars]"
+        },
+        {
+            "source": {
+                "id": "techcrunch",
+                "name": "TechCrunch"
+            },
+            "author": "Rita Liao",
+            "title": "Battery giant Anker backs programmable robot maker Keyi",
+            "description": "The promise of STEAM robots, which are billed to increase children’s interest in science, technology, engineering, arts, and mathematics (STEAM), has been around for years. The market is teeming with products from hardcore robotics scientists and their copyca…",
+            "url": "https://techcrunch.com/2022/06/27/battery-anker-invests-steam-robomaker-keyi-clicbot/",
+            "urlToImage": "https://techcrunch.com/wp-content/uploads/2022/06/Child-w-ClicBot.png?w=764",
+            "publishedAt": "2022-06-27T12:17:05Z",
+            "content": "The promise of STEAM robots, which are billed to increase children’s interest in science, technology, engineering, arts, and mathematics (STEAM), has been around for years. The market is teeming with… [+2612 chars]"
+        },
+        {
+            "source": {
+                "id": "techcrunch",
+                "name": "TechCrunch"
+            },
+            "author": "Anita Ramaswamy",
+            "title": "Austin-based True Wealth Ventures raises second fund to back women-led startups",
+            "description": "80% of the fund's investors are women, many of whom haven't invested in a venture fund before, partners Sara Brand and Kerry Rupp said",
+            "url": "https://techcrunch.com/2022/06/27/austin-true-wealth-ventures-raises-second-fund-female-women-startups-founders-entrepreneurs/",
+            "urlToImage": "https://techcrunch.com/wp-content/uploads/2022/06/True-Wealth-Ventures-GPs_Kerry-Rupp-and-Sara-Brand-3.jpg?w=600",
+            "publishedAt": "2022-06-27T11:00:10Z",
+            "content": "Sara Brand and Kerry Rupp of Austin, Texas-based True Wealth Ventures defy many trends in the venture capital world. The investors, who raised $19.1 million for their first fund in 2018, have just cl… [+4389 chars]"
+        }
+    ]
+}
